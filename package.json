@@ -1,0 +1,19 @@
+{
+  "name": "lab-003",
+  "version": "1.0.0",
+  "description": "401JS-lab3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RellikDog/lab-003.git"
+  },
+  "author": "rickBell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RellikDog/lab-003/issues"
+  },
+  "homepage": "https://github.com/RellikDog/lab-003#readme"
+}
